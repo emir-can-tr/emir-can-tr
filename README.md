@@ -18,7 +18,7 @@
 
 > "Kod yazmak sanat, çözmek bilimdir." 
 
-Merhaba! Ben **Emircan**, yazılım geliştirme tutkusu olan bir **Full Stack Developer**'ım. Yeni teknolojiler öğrenmeyi, karmaşık problemlere basit çözümler üretmeyi ve açık kaynak topluluğuna katkı sağlamayı seviyorum. 
+Merhaba! Ben **Emir Can**, yazılım geliştirme tutkusu olan bir **Full Stack Developer**'ım. Yeni teknolojiler öğrenmeyi, karmaşık problemlere basit çözümler üretmeyi ve açık kaynak topluluğuna katkı sağlamayı seviyorum. 
 
 🌐 **Kişisel Web Sitesi:** [emircan.tr](https://emircan.tr)
 
@@ -98,7 +98,7 @@ Merhaba! Ben **Emircan**, yazılım geliştirme tutkusu olan bir **Full Stack De
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=emir-can-tr&repo=awesome-project-1&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/emir-can-tr/awesome-project-1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=emir-can-tr&repo=awesome-project-1&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/emir-can-tr/lensify)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=emir-can-tr&repo=awesome-project-2&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/emir-can-tr/awesome-project-2)
 
 </div>
