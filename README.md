@@ -33,7 +33,7 @@ Merhaba! Ben **Emir Can**, yazılım geliştirme tutkusu olan bir **Full Stack D
 - 👯 **İş birliği:** Açık kaynak projeler ve inovatif startuplar
 - 💬 **Konuşalım:** JavaScript, React, Node.js, Python
 - ⚡ **Hızlı bilgi:** Kahve içerken en iyi kodları yazarım ☕
-- 📫 **İletişim:** [hello@emircan.tr](mailto:hello@emircan.tr)
+- 📫 **İletişim:** [info@emircan.tr](mailto:info@emircan.tr)
 
 </details>
 
