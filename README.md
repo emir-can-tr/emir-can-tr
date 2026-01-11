@@ -122,7 +122,7 @@ Merhaba! Ben **Emir Can**, yazılım geliştirme tutkusu olan bir **Full Stack D
 📝 5+ PR gönderildi
 ```
 
-## 🎯 2024 Hedefleri
+## 🎯 2026 Hedefleri
 
 - [x] **Modern Frontend:** Next.js 14 ve React 18 ile projeler geliştirmek
 - [x] **Cloud-Native:** AWS ve Docker ile mikroservis mimarisi öğrenmek
@@ -165,7 +165,7 @@ const emircan = {
 [![Website](https://img.shields.io/badge/🌐_Website-emircan.tr-2196F3?style=for-the-badge&logoColor=white)](https://emircan.tr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emircan)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/emircan)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@emircan.tr)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@emircan.tr)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emir-can-tr)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/emircan)
 
