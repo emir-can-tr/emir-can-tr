@@ -1,7 +1,7 @@
 # 👋 Merhaba! Ben Emir Can
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=5000&size=28&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&width=600&height=150&lines=Girişimci;Yapılacak+daha+çok+iş+var+..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=5000&size=28&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&width=600&height=150&lines=Girişimci;'Yapılacak+daha+çok+iş+var...'" alt="Typing SVG" />
 </div>
 
 
